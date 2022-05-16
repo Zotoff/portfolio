@@ -108,3 +108,48 @@
     </td>
     </tr>
 </table>
+
+### SPA for travelers
+<table border="0">
+    <tr>
+    <td width="400">
+       <ul>
+        <li><strong>Repository: </strong> <a href="https://github.com/Zotoff/18416-keksobooking-21" target="_blank">https://github.com/Zotoff/18416-keksobooking-21</a></li>
+        <li><strong>Skills: </strong> JavaScript (ES6), Canvas</li>
+       </ul>
+    </td>
+    <td>
+        <img src="src/keksobooking.png" width="250" height="auto">
+    </td>
+    </tr>
+</table>
+
+### Gallery landing page
+<table border="0">
+    <tr>
+    <td width="400">
+       <ul>
+        <li><strong>Repository: </strong> <a href="https://zotoff.github.io/pictures-website/" target="_blank">https://zotoff.github.io/pictures-website/</a></li>
+        <li><strong>Skills: </strong> HTML5, CSS3, JS</li>
+       </ul>
+    </td>
+    <td>
+        <img src="src/pintora.png" width="250" height="auto">
+    </td>
+    </tr>
+</table>
+
+### TypeScript Drag and Drop educational project
+<table border="0">
+    <tr>
+    <td width="400">
+       <ul>
+        <li><strong>Repository: </strong> <a href="https://github.com/Zotoff/typescript-drag-n-drop" target="_blank">https://github.com/Zotoff/typescript-drag-n-drop</a></li>
+        <li><strong>Skills: </strong> TypeScript, Webpack</li>
+       </ul>
+    </td>
+    <td>
+        <img src="src/typescript-drag.png" width="250" height="auto">
+    </td>
+    </tr>
+</table>
