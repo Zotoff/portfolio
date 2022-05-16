@@ -109,21 +109,6 @@
     </tr>
 </table>
 
-### SPA for travelers
-<table border="0">
-    <tr>
-    <td width="400">
-       <ul>
-        <li><strong>Repository: </strong> <a href="https://github.com/Zotoff/18416-keksobooking-21" target="_blank">https://github.com/Zotoff/18416-keksobooking-21</a></li>
-        <li><strong>Skills: </strong> JavaScript (ES6), Canvas</li>
-       </ul>
-    </td>
-    <td>
-        <img src="src/keksobooking.png" width="250" height="auto">
-    </td>
-    </tr>
-</table>
-
 ### Gallery landing page
 <table border="0">
     <tr>
